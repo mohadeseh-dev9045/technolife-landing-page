@@ -1,6 +1,6 @@
 # 📱 TechnoLife Landing Page
 
-A modern and responsive landing page inspired by the **TechnoLife** online store. This project was built using **HTML5** and **CSS3** with a strong focus on clean structure, responsive design, and user experience.
+A modern and responsive landing page inspired by the **TechnoLife** online store. This project was built using **HTML5** and **CSS3**, focusing on responsive design, semantic HTML, and clean UI.
 
 ---
 
@@ -10,15 +10,15 @@ A modern and responsive landing page inspired by the **TechnoLife** online store
 
 #### Header & Hero
 
-![Header & Hero](./screenshots/header-hero.png)
+![Header & Hero](./project-01/screenshots/header-hero.png)
 
 #### Products Section
 
-![Products](./screenshots/products.png)
+![Products](./project-01/screenshots/products.png)
 
 #### Statistics Section
 
-![Statistics](./screenshots/stats.png)
+![Statistics](./project-01/screenshots/stats.png)
 
 ---
 
@@ -26,11 +26,11 @@ A modern and responsive landing page inspired by the **TechnoLife** online store
 
 #### Home
 
-![Mobile Home](./screenshots/mobile.png)
+![Mobile Home](./project-01/screenshots/mobile.png)
 
 #### Products
 
-![Mobile Products](./screenshots/mobile-products.png)
+![Mobile Products](./project-01/screenshots/mobile-products.png)
 
 ---
 
@@ -38,11 +38,11 @@ A modern and responsive landing page inspired by the **TechnoLife** online store
 
 #### Home
 
-![Tablet Home](./screenshots/tablet.png)
+![Tablet Home](./project-01/screenshots/tablet.png)
 
 #### Products
 
-![Tablet Products](./screenshots/tablet-products.png)
+![Tablet Products](./project-01/screenshots/tablet-products.png)
 
 ---
 
@@ -52,16 +52,17 @@ A modern and responsive landing page inspired by the **TechnoLife** online store
 - 🏗️ Semantic HTML5 Structure
 - 🎨 Modern CSS3 Styling
 - 📦 Flexbox Layout
-- 🖱️ Smooth Hover Effects
+- 📐 Media Queries
+- 🖱️ Interactive Hover Effects
 - ✨ CSS Transitions & Animations
-- 🧭 Clean Navigation Bar
-- 📊 Product Cards
-- 📈 Statistics Section
-- ⚡ Optimized Layout
+- 🧭 Responsive Navigation
+- 🛍️ Product Cards
+- 📊 Statistics Section
+- ⚡ Clean & Organized Code
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -70,73 +71,23 @@ A modern and responsive landing page inspired by the **TechnoLife** online store
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
-```
-project-01
+```text
+technolife-landing-page
 │
-├── images/
-├── screenshots/
-│   ├── header-hero.png
-│   ├── products.png
-│   ├── stats.png
-│   ├── mobile.png
-│   ├── mobile-products.png
-│   ├── tablet.png
-│   └── tablet-products.png
+├── README.md
 │
-├── index.html
-├── style.css
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/mohadeseh-dev9045/technolife-landing-page.git
-```
-
-Open the project
-
-```bash
-index.html
-```
-
----
-
-## 📱 Responsive Design
-
-This project is optimized for:
-
-- 💻 Desktop
-- 📱 Mobile
-- 📲 Tablet
-
----
-
-## 📖 What I Practiced
-
-- Semantic HTML
-- Responsive Web Design
-- Flexbox
-- CSS Positioning
-- Hover Effects
-- CSS Transitions
-- Project Structure
-- Clean UI Design
-
----
-
-## 👩‍💻 Author
-
-**Mohadeseh**
-
-Frontend Developer
-
-GitHub: https://github.com/mohadeseh-dev9045
-
-⭐ If you like this project, consider giving it a star!
+└── project-01
+    ├── images
+    ├── screenshots
+    │   ├── header-hero.png
+    │   ├── products.png
+    │   ├── stats.png
+    │   ├── mobile.png
+    │   ├── mobile-products.png
+    │   ├── tablet.png
+    │   └── tablet-products.png
+    │
+    ├── index.html
+    └── style.css
